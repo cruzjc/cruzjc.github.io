@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2017-01-20 (1).png
-title:Undertale Tile Puzzle
+title: Undertale Tile Puzzle
 permalink: projects/Undertale Tile Puzzle
 date: 2016
 labels:
