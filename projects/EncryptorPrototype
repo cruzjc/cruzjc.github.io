@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: ../images/EncryptorScreenShot.png
-title: Undertale Tile Puzzle
-permalink: projects/Undertale Tile Puzzle
+image: images/EncryptorScreenShot.png
+title: Encryptor mini-project idea
+permalink: projects/Encryptorprotype
 date: 2016
 labels:
   - Java
@@ -22,5 +22,7 @@ This was a small working prototype of an encryptor i worked on while in ics111. 
 I am quite suprised by how easy it is to mess up a file with a few lines of code. One thing I find facinating is seeing something how something that seems soo chaotic turn into something so ordered and meaningfull. All this code does is just flip the data. You run this with a text file and try to open it, it will look like all sorts of messed up. Run it again though with the same file, and its back to what would be considered "normal".
 
 
+Source files
+https://github.com/cruzjc/Encryptor
 
 
