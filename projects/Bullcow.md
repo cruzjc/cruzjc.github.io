@@ -12,7 +12,9 @@ labels:
 summary: A small simple game made as part of a tutorial for learning the Unreal Engine
 ---
 
-<img class="ui image" src="..images/2017-01-20 (2).png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/2017-01-20 (2).png">
+</div>
 
 In part of my spare time I have taken an interest in learning how to use the unreal engine. I came across a tutorial on the basics of the unreal engine and as a part of the learning process, it involved also learning the basics of C++ through visual studio. What resulted is a small text console game where you try to guess an isogram.
 
