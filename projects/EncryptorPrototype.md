@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/EncryptorScreenShot.png
 title: Encryptor mini-pre-project idea
-permalink: projects/Encryptorprototype
+permalink: projects/Encryptorprototype.md
 date: 2016
 labels:
   - Java
