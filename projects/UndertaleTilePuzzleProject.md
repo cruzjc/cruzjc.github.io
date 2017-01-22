@@ -12,8 +12,12 @@ labels:
 summary: A ics111 group project based on the game Undertale
 ---
 
-<div class="ui small rounded images">g
+<div class="ui small rounded images">
   <img class="ui image" src="../images/2017-01-20 (1).png" width="300">
+</div>
+
+<div class="ui small rounded images">
+  <img class="ui image" src="..images/Undertale tile puzzle.png" width="300">
 </div>
 
 The Undertale Tile Puzzle is an Ics111 group project created using Eclipse and a multimedia library (EZ graphics by Dylan Kobayashi). This was based on a game me and my partner both enjoyed named Undertale.
