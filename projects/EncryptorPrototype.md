@@ -13,7 +13,7 @@ summary: An encryptor prototype
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/EncryptorScreenShot.png" width="48">
+  <img class="ui image" src="../images/EncryptorScreenShot.png" width="800">
 </div>
 
 
