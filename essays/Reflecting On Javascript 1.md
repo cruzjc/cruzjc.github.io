@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: Reflecting on javascript 1
-date: 2016-01
+date: 2016
 labels:
   - Javascript
   - Learning
