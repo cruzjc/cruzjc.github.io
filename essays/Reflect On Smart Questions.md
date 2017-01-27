@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: Reflect on smart question
-date: 2016
+date: 2017-01-26
 labels:
   - Smart questions
   - Learning
