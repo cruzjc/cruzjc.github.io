@@ -2,10 +2,10 @@
 layout: essay
 type: essay
 published: true
-title: Reflecting on javascript 1
+title: Reflect on smart question
 date: 2016
 labels:
-  - Javascript
+  - Smart questions
   - Learning
 ---
 
