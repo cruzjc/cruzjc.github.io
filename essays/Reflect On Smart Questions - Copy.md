@@ -2,19 +2,17 @@
 layout: essay
 type: essay
 published: true
-title: Reflect on smart question
-date: 2017-01-26
+title: 99 Problems
+date: 2017-02-10
 labels:
-  - Smart questions
+  - Coding Styles
   - Learning
 ---
 
-Time is always important and asking questions is a way to prevent wasting time. However, asking the wrong questions may end up wasting more of your time. There are ‘smart’ questions and ‘not so smart’ questions. There are questions which may be answered thoughtfully and leave you more educated than before. There are also questions which will be left eternally unanswered, buried underneath countless other pleas for help. When it comes to software engineering, asking the wrong questions and waiting for a response will ultimately result in a waste of time for the person asking and for anyone who bothers to read or attempt to answer the question.
+One aspect about coding I enjoy is the freedom to approach a problem in a unique way. The habits formed and techniques used are unique to coders. In my view, it is like a signature. Another part of coding I appreciate is the unique experience from learning from mistakes. It may take a while to learn (even if it is a mistake in the making) but I think there are reasons to stay ignorant. With the introduction and enforcement to coding styles, it feels like some form of tyranny.
 
-When we ask questions, we are asking for help. Just as in the well-known fable ‘The boy who cried wolf’, asking for help is also asking for trust from others. This trust can be broken almost immediately and cost credibility in competence and stature. 
+As expected, I formed a lot of coding habits. Among them is trying to minimally use spaces within my code. My reasons behind this preference is partly to fit more code within the screen. Another reason is to minimize keystrokes. The enforcement of a new coding style along with an innate habit to clean up code has resulted in an extended amount of time to complete code. My coding times seemed to have tripled since the enforcement of coding styles.
 
-Asking the ‘not so smart questions’ can be frustrating for everyone. These kinds of questions include asking something that already was answered. Duplicate questions show that the author has not done any effort to look for answers and in return raises the question of why anyone should help the author. The idea of helping someone who can’t help themselves is already questionable. In my opinion, part of practicing good software engineering is being able to solve some problems independently, just like any other ‘engineer’. What also makes a question ‘not so smart’ is lack of clarity. A question where it is open to interpretation wastes time in being able to decipher what was asked and what is being asked. Broad and ambiguous questions might as well be asking the entire community to do ones work. Asking questions like “how would I sort this data” would likely be met with an equally half-hearted answer like ‘use quick-sort’.  Again, the question asked will reflect one’s level of knowledge and how much effort was put forward. 
+It may sound silly but finding problems is something I don’t mind spending time on. Even if those problems were of my own doing. Formatting and coding errors may end up taking a lot of time however in my view it is one of those ‘artificial pleasures’. It is similar to being able to solve a riddle or puzzle (like a crossword or thought experiment). If someone were to just give you the algorithm or unquestioned answers it would make things feel a little less pointless.
 
-The ‘smart’ questions require more effort, though this extra effort are absolutely worthwhile. These types of questions are unique and clear in what the author is trying to request. It would be obvious that the person has put sincere effort into research before venturing out into the community for answers. Maybe referencing other similar posts or other websites as past attempts would indicate at least some effort. One other important factor when asking a question other the uniqueness is being able to make a clear request as well as provide relevant information. It will help mentioning what was attempted.
-
-In conclusion putting in some effort on finding answers to possibly already asked questions can save time. Also when asking questions, it would save time for everyone if thought was put into the question first.
+When facing the sight of ‘problems’ in one’s code which were formed by their own preference, it felt disheartening, and tedious. It felt as if the idea of freedom was shackled, citing security and efficiency. Rather a green checkmark of confident approval, twas instead a red mark of incessant nagging. Albeit there is a silver lining of being able to accomplish unimaginably more. To do bigger projects likely requires a team. And for a team to function nicely, a standard seems necessary. A coding style. After dealing with this ‘coding style’ hurdle hopefully there is more freedom.
