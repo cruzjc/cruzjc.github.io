@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: 99 errors
+title: 99 Errors
 date: 2017-02-09
 labels:
   - Coding Styles
