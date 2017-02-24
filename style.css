@@ -1,0 +1,10 @@
+
+body{
+}
+
+.background{
+  background-color: #F2711C;
+  background-image: url('images/shifaz-huthee-197333.jpg')!important;
+  background-size: cover !important;
+  height: 500px;
+}
