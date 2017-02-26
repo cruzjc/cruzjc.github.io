@@ -14,8 +14,7 @@ The term ‘framework’ is relatively new to me, yet it is about a concept I al
 
 While going through ‘Information and computer science’ (Ics) classes at UH Manoa, one persistent worry is learning different computer languages. I would be concerned about learning about one language like java (ics111), then learn another like c/c++ (ics212) only to forget how to program in Java afterwards. It would take only months, maybe even weeks to forget and lose any sort of proficiency in a computer language. I would forget how to simply output a simple string, or forget the basic libraries associated to a certain language. I would worry about not being an expert at a language. Now, there are these ‘frameworks’. I guess it is like a smaller custom library in a language, but my worries and concerns about learning something new persists. 
 
-<img class="ui medium floated image" src="../images/divs-divs-everywhere.jpg">
-<br>
+<img class="ui medium centered image" src="../images/divs-divs-everywhere.jpg">
 
 
 Surprisingly however, coming up with something using Semantic-UI was not so hard. It was easy to learn by example code, and easy to implement. Aside from a minor problem (There were div’s everywhere, so I occasionally lose track), using Semantic-UI did feel close to a natural ‘semantic’ language. I thought it was pretty user friendly to just use descriptors when defining classes (eg, <div class=”ui container”>). A possible reason why I may not have had a hard time with Semantic-UI is probably because of my strict upbringings when learning C++;
