@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: A meteor crash course
-date: 2017-02-10
+date: 2017-03-23
 labels:
   - Meteor
   - Learning
