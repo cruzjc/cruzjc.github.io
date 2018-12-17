@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jeanclyde Cruz",
     "label": "Student",
-    "picture": "https://cruzjc.github.io/images/21Jan2017Headshot-600x600.jpg",
+    "picture": "https://cruzjc.github.io/images/21Jan2017Headshot-300x300.jpg",
     "email": "cruzjc@hawaii.edu",
     "phone": "",
     "website": "https://cruzjc.github.io",
@@ -85,17 +85,6 @@
       "highlights": [
         "Data entry",
         "Assist with workshops"
-      ]
-    },
-    {
-      "company": "United States postal service",
-      "position": "Holdiday Help",
-      "startDate": "2015-011",
-      "endDate": "2015-12",
-      "summary": "Worked for USPS during the holidays",
-      "highlights": [
-        "Sort packages",
-        "Unload mail"
       ]
     }
   ],
