@@ -2,14 +2,14 @@
 layout: default
 ---
 
-#Hi welcome to my website, I'm Jeanclyde Cruz
+# Hi welcome to my website, I'm Jeanclyde Cruz
 
 <script src="//code.tidio.co/mwhfheyrfem333yz5xglbwkuajlnqlk2.js" async></script>
 
 ***
 
 ##Stuff
-*   (./page1.html)
-*   (./page2.html)
+*   [page1](./pages/page1.html)
+*   [page2](./pages/page2.html)
 
 
