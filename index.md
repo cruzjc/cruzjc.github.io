@@ -8,7 +8,7 @@ layout: default
 
 ***
 
-##Stuff
+## Stuff
 *   [page1](./pages/page1.html)
 *   [page2](./pages/page2.html)
 
