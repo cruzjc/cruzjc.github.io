@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: Default
 ---
 
 # A list of side project I have worked on

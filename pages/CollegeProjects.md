@@ -1,8 +1,8 @@
 ---
-layout: Post
+layout: Default
 ---
 
-#A list of various college projects
+# A list of various college projects
 
 -Undertale TileMaze
 -Manoa Coder Central
