@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 ---
 
 # A list of work projects
