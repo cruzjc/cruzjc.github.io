@@ -19,6 +19,7 @@ layout: default
 * Learning Golang [GoByExample]("https://gobyexample.com/")
 * Learning some cyber security [OverTheWire]("https://overthewire.org/wargames/bandit/bandit13.html")
 * Learning Security+ content [Udemy]("https://external-teksystems.udemy.com/organization/home/")
+* Updating Chatbot [Tidio]("https://www.tidio.com/panel/dashboard")
 
 
 
