@@ -9,7 +9,17 @@ layout: default
 ***
 
 ## Stuff
-*   [page1](./pages/page1.html)
-*   [page2](./pages/page2.html)
+*   [About myself](./pages/AboutMyself.html)
+*   [Projects I have worked on (College)](./pages/CollegeProjects.html)
+*   [Projects I have worked on (Side Projects)](./pages/SideProjects.html)
+*   [Projects I have worked on (Work)](./pages/WorkProjects.html)
+
+
+## Ongoing personal projects
+* Learning Golang [GoByExample]("https://gobyexample.com/")
+* Learning some cyber security [OverTheWire]("https://overthewire.org/wargames/bandit/bandit13.html")
+* Learning Security+ content [Udemy]("https://external-teksystems.udemy.com/organization/home/")
+
+
 
 
