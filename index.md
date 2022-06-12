@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi welcome to my website, I'm Jeanclyde Cruz
+# Hi, welcome to my website, I'm Jeanclyde Cruz
 
 <script src="//code.tidio.co/mwhfheyrfem333yz5xglbwkuajlnqlk2.js" async></script>
 
@@ -23,5 +23,5 @@ layout: default
 
 
 ## Unity Projects
-*   [Site Integration Test](./Unity/SiteIntegrationTest/SiteIntegration.html)
+*   [Site Integration Test](./)
 
