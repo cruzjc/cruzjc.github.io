@@ -43,11 +43,13 @@
             {% endif %}
 
         </header>
-      <section>
+        <section>
+            {{ content }}
+        </section>
 
-      {{ content }}
 
-<div id="unity-container" class="unity-desktop">
+
+    <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=960 height=600></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
@@ -158,14 +160,6 @@
     </script>
 
 
-
-
-
-
-
-
-
-      </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
