@@ -16,6 +16,7 @@ layout: default
 
 
 ## Ongoing personal projects
+* Improving this site
 * Learning Golang [GoByExample](https://gobyexample.com/)
 * Learning some cyber security [OverTheWire](https://overthewire.org/wargames/bandit/bandit13.html)
 * Learning Security+ content [Udemy](https://external-teksystems.udemy.com/organization/home/)
@@ -23,6 +24,7 @@ layout: default
 
 
 ## Unity Projects
-*   [Site Integration Test](./Unity/SiteIntegrationTest/index.html)
-*   [IntegrationTest FPS](./Unity/IntegrationTest FPS/index.html)
+*   [Site Integration Test, made from Unity template](./Unity/SiteIntegrationTest/index.html)
+*   [IntegrationTest FPS, made from Unity template](./Unity/IntegrationTest FPS/index.html)
+*   [Sandbox June2022 FPS](./Unity/Sandbox June2022 FPS/index.html)
 
