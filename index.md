@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Hi, welcome to my website, I'm Jeanclyde Cruz
+Excuse the mess, I'm still playing around with features
 
 <script src="//code.tidio.co/mwhfheyrfem333yz5xglbwkuajlnqlk2.js" async></script>
 
