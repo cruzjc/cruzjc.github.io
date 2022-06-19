@@ -5,8 +5,6 @@ layout: default
 # Hi, welcome to my website, I'm Jeanclyde Cruz
 Excuse the mess, I'm still playing around with features
 
-<script src="//code.tidio.co/mwhfheyrfem333yz5xglbwkuajlnqlk2.js" async></script>
-
 ***
 
 ## Stuff
@@ -30,4 +28,5 @@ Press escape to reveal mouse cursor
 *   [IntegrationTest FPS, made from Unity template](./Unity/IntegrationTest FPS/index.html)
 *   [Sandbox June2022 FPS](./Unity/Sandbox June2022/index.html)
 *   [15June2022 QuickProject](./Unity/15June2022/index.html)
+*   [Simple Memory Game](./Unity/SimpleMemoryGame/index.html)
 
