@@ -4,6 +4,7 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+author: Jeanclyde Cruz
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
