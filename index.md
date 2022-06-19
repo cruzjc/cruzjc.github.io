@@ -25,7 +25,9 @@ Excuse the mess, I'm still playing around with features
 
 
 ## Unity Projects
+Press escape to reveal mouse cursor
 *   [Site Integration Test, made from Unity template](./Unity/SiteIntegrationTest/index.html)
 *   [IntegrationTest FPS, made from Unity template](./Unity/IntegrationTest FPS/index.html)
 *   [Sandbox June2022 FPS](./Unity/Sandbox June2022/index.html)
+*   [15June2022 QuickProject](./Unity/15June2022/index.html)
 
