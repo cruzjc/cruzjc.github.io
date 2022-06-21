@@ -4,6 +4,8 @@ layout: post
 
 # test post
 
+<div>
+
 <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=960 height=600></canvas>
       <div id="unity-loading-bar">
@@ -113,4 +115,6 @@ layout: post
       };
       document.body.appendChild(script);
     </script>
+
+</div>
 
