@@ -24,14 +24,14 @@ Excuse the mess, I'm still playing around with features
 
 ## Unity Projects
 Press escape to reveal mouse cursor
-*   [Site Integration Test, made from Unity template](./Unity/SiteIntegrationTest/index.html)
-*   [IntegrationTest FPS, made from Unity template](./Unity/IntegrationTest FPS/index.html)
-*   [Sandbox June2022 FPS](./Unity/Sandbox June2022/index.html)
-*   [15June2022 QuickProject](./Unity/15June2022/index.html)
-*   [Simple Memory Game](./Unity/SimpleMemoryGame/index.html)
-*   [Viral, 2018 Global Game Jam Entry](./Unity/Viral/index.html)
-*   [19June2022 QuickProject](./Unity/19June2022/index.html)
-*   [22June2022 QuickProject](./Unity/22June2022/Post.html)
+*   [Site Integration Test, made from Unity template](./Unity/SiteIntegrationTest/)
+*   [IntegrationTest FPS, made from Unity template](./Unity/IntegrationTest FPS/)
+*   [Sandbox June2022 FPS](./Unity/Sandbox June2022/)
+*   [15June2022 QuickProject](./Unity/15June2022/)
+*   [Simple Memory Game](./Unity/SimpleMemoryGame/)
+*   [Viral, 2018 Global Game Jam Entry](./Unity/Viral/)
+*   [19June2022 QuickProject](./Unity/19June2022/)
+*   [22June2022 QuickProject](./Unity/22June2022/Post)
 
 ## Unity Notes
 *   [Unity Notes](./pages/UnityNotes.html)

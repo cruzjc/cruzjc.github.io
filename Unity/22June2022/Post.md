@@ -1,8 +1,14 @@
 ---
 layout: post
+title: 22June2022
 ---
 
-[Back to Main Page](cruzjc.github.io/)
+
+[Back to Main Page](https://cruzjc.github.io/)
+
+# Topics applied
+
+* Cinemachine/Camera Dolly
 
 <div>
 
