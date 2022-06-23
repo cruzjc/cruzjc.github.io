@@ -31,7 +31,7 @@ Press escape to reveal mouse cursor
 *   [Simple Memory Game](./Unity/SimpleMemoryGame/)
 *   [Viral, 2018 Global Game Jam Entry](./Unity/Viral/)
 *   [19June2022 QuickProject](./Unity/19June2022/)
-*   [22June2022 QuickProject](./Unity/22June2022/Post)
+*   [22June2022 QuickProject](./Unity/22June2022/)
 
 ## Unity Notes
 *   [Unity Notes](./pages/UnityNotes.html)
