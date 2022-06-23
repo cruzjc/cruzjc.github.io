@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[back](./)
+[Back to Main Page](cruzjc.github.io/)
 
 <div>
 
