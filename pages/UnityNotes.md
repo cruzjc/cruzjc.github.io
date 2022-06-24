@@ -22,3 +22,11 @@ https://docs.unity3d.com/ScriptReference/Quaternion-identity.html
 >    }
 
 ```
+
+>    private void OnMouseOver()
+>    {
+>        if (Input.GetMouseButtonDown(0))
+>        {
+>            Destroy(gameObject);
+>        }
+>    }
