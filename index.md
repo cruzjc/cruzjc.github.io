@@ -7,6 +7,10 @@ Excuse the mess, I'm still playing around with features
 
 ***
 
+## Web Projects
+*   [Speech-to-Text Web App](./speech_to_text_web/)
+*   [Visitor Waffle Analytics](./visitor-waffle/)
+
 ## Stuff
 *   [About myself](./pages/AboutMyself.html)
 *   [Projects I have worked on (College)](./pages/CollegeProjects.html)
